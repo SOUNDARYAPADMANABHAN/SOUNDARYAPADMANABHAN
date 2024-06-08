@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SOUNDARYAPADMANABHAN
 - 👀 I’m interested in PYTHON, C, C++
-- 🌱 I’m currently learning MATLAB
+- 🌱 I am currently working with global navigation based systems
 - 📫 How to reach me -soundaryap14.03@gmail.com
 
 <!---
